@@ -1,0 +1,6 @@
+@TrinhMinhDat_ktcuoi_HostAddress = http://localhost:5122
+
+GET {{TrinhMinhDat_ktcuoi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
